@@ -5,7 +5,7 @@
 
 # Para utilizar a aplicação
 
-1. Git clone
+1. Git clone https://github.com/gabrielolivra/petExpress1.git
 2. Install Xampp
 3. Create bd in phpmyadmin 
 4. Name bd 'petexpress'
