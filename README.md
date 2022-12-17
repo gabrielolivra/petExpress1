@@ -9,5 +9,7 @@
 2. Install Xampp
 3. Create bd in phpmyadmin 
 4. Name bd 'petexpress'
-5. import bd petexpress.sql
-6. run
+5. Import bd petexpress.sql
+6. Run!
+
+![alt text](logo.png)
