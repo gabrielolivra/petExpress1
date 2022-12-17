@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+*{list-style: none;
+    margin:0;
+    padding: 0;
+    font-family: Inter;
+    }
+
+html{background-color: #132E3F;}
+
+.logo{display:flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;}
+
+form{display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
+@media only screen and (max-width:700px){
+
+     /*Login.html*/ 
+
+form input{width: 80%;
+margin:10px auto;
+height: 40px;
+border-radius: 10px;;
+outline:none;
+border: none;
+padding-left: 5px;}
+
+form .login{
+    width: 80%;
+    height: 40px;
+    border-radius:10px;
+    margin:10px auto;
+    background-color: #D99511;
+    border:none;
+    color:white;
+    font-size: 12px;
+    outline: none;
+    padding-left: 5px;
+}
+form .p-link{color:white;
+font-weight: 400;
+font-size: 12px;
+}
+form p span .link{color: #0DA613;
+    text-decoration: none;
+margin-left: 10px;}
+
+/*Login.html*/ 
+
+
+}
